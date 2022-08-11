@@ -21,24 +21,26 @@ China             40
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Cities Of Turkey:
-                   Change:
-69    Istanbul     11 +
 
-210	  Ankara	     21 - 
+Position, City, Change
+                   
+69    Istanbul              11 +
 
-384 	Izmir        61 + 
+210	  Ankara	              21 - 
 
-649		Antalya      38 - 
+384 	Izmir                 61 + 
 
-799		Bursa	       40 + 
+649		Antalya               38 - 
 
-816		Gaziantep    new Na 
+799		Bursa	                40 + 
 
-858		Trabzon	     10 -
+816		Gaziantep             new Na 
+    
+858		Trabzon	              10 -
 
-945		Kayseri	     44 +
+945		Kayseri	              44 +
 
-948		Eskişehir    new Na
+948		Eskişehir             new Na
 
 
 ![adsq](https://user-images.githubusercontent.com/83331577/184073886-13b97c1f-3f2d-4963-8b3e-d1e4cb4abf99.PNG)
