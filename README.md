@@ -4,7 +4,7 @@ Hello ı used this dataset from https://www.kaggle.com/datasets/ramjasmaurya/bes
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-W have 1000 citie in this dataset. 
+There is a 1000 citie in this dataset.
 
 Top 5:
 
